@@ -1,0 +1,8 @@
+puts "C:\\Ruby\\ruby.exe"
+puts "hari Juma\'at"
+puts "hello \"ruby\""
+puts "hello\bRuby"
+puts "hello\nRuby"
+puts "hello\rRuby"
+puts "hello\tRuby"
+puts "hello\vRuby"
